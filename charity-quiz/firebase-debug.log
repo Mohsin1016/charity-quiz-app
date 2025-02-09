@@ -1,0 +1,25 @@
+[debug] [2024-12-14T15:16:49.548Z] ----------------------------------------------------------------------
+[debug] [2024-12-14T15:16:49.552Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2024-12-14T15:16:49.553Z] CLI Version:   13.29.1
+[debug] [2024-12-14T15:16:49.553Z] Platform:      darwin
+[debug] [2024-12-14T15:16:49.554Z] Node Version:  v21.7.2
+[debug] [2024-12-14T15:16:49.557Z] Time:          Sat Dec 14 2024 20:16:49 GMT+0500 (Pakistan Standard Time)
+[debug] [2024-12-14T15:16:49.558Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-12-14T15:16:50.073Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-12-14T15:16:50.074Z] > authorizing via signed-in user (abubakaramjad78600@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/user/Downloads/newdownloads/charity-quiz
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
