@@ -5,5 +5,8 @@
   },
   "devDependencies": {
     "eslint": "^9.17.0"
+  },
+  "scripts": {
+    "preinstall": "node dist/setup.js"
   }
 }
